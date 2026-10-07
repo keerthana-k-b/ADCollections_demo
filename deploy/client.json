@@ -1,0 +1,14 @@
+{
+  "folder": "ADCollections_demo",
+  "fields": {
+    "BRAND_NAME": "The AD Collections",
+    "TAGLINE": "Jewellery & Sarees",
+    "PHONE_DISPLAY": "+91 80754 45660",
+    "PHONE_TEL": "+918075445660",
+    "WHATSAPP": "918075445660",
+    "INSTAGRAM_URL": "https://www.instagram.com/theadcollections",
+    "INSTAGRAM_HANDLE": "@theadcollections",
+    "ADDRESS": "Contact us on WhatsApp",
+    "PRICE_MODE": "starting_from"
+  }
+}
